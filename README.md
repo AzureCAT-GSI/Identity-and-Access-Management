@@ -1,3 +1,7 @@
+> **Update:** Hello! As of 1 January 2017 this content is no longer being actively managed and updated. It is provided as-is and may contain information that has changed. Any Issues will be addressed on a best-effort basis. Please see [Azure.com](http://www.azure.com) for the latest guidance. Thank you for your understanding.
+
+---
+
 # Identity and Access Management
 Identity and Access Management is a cornerstone to any solution architecture today and application security is no longer an afterthought, but instead, an integral part of how applications are developed.  In this session you will learn how Azure Active Directory delivers unprecedented levels of security to cloud applications.  You will learn how to extend your environment to leverage thousands of popular software-as-a-service applications available in the Azure Marketplace and manage access to those applications.  You will learn how Azure Active Directory manages identities and solutions to extend existing on-premises directories to the cloud to achieve single-sign-on across all your applications running on-premises and in the cloud.  Finally, you will learn how to develop real-world line-of-business cloud applications that are protected by Azure Active Directory using industry standard protocols such as OAuth, WS-Federation, and SAML. You will learn how to achieve claims-based security in your solutions and patterns to help reduce application security risks.
 
